@@ -1,0 +1,13 @@
+
+[
+  {
+    "role": "Data Analyst",
+    "required_skills": ["Python", "SQL", "Pandas"],
+    "preferred_industries": ["Healthcare"]
+  },
+  {
+    "role": "Backend Developer",
+    "required_skills": ["Java", "Spring", "AWS"],
+    "preferred_industries": ["FinTech"]
+  }
+]

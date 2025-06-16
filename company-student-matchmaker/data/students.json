@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Ananya Verma",
+    "skills": ["Python", "Data Science", "Pandas"],
+    "interests": ["AI", "Healthcare"],
+    "certifications": ["Coursera AI Specialization"]
+  },
+  {
+    "name": "Raj Kumar",
+    "skills": ["Java", "Spring", "AWS"],
+    "interests": ["Backend", "FinTech"],
+    "certifications": ["AWS Developer Associate"]
+  },
+  {
+    "name": "Priya Sharma",
+    "skills": ["Python", "SQL", "Tableau"],
+    "interests": ["Healthcare", "Analytics"],
+    "certifications": ["Google Data Analytics"]
+  },
+  {
+    "name": "Aman Gupta",
+    "skills": ["Java", "Docker", "Spring Boot"],
+    "interests": ["Backend", "Cloud"],
+    "certifications": ["Oracle Java SE 11"]
+  },
+  {
+    "name": "Meena Iyer",
+    "skills": ["Python", "R", "Pandas"],
+    "interests": ["Healthcare", "Biotech"],
+    "certifications": ["IBM Data Science"]
+  },
+  {
+    "name": "Karthik Reddy",
+    "skills": ["Java", "Spring", "AWS", "Kubernetes"],
+    "interests": ["FinTech", "DevOps"],
+    "certifications": ["AWS Solutions Architect"]
+  },
+  {
+    "name": "Sneha Joshi",
+    "skills": ["SQL", "Power BI", "Python"],
+    "interests": ["Healthcare", "Visualization"],
+    "certifications": ["Microsoft Data Analyst Associate"]
+  },
+  {
+    "name": "Vikram Saini",
+    "skills": ["Java", "Microservices", "Spring Boot"],
+    "interests": ["Banking", "Backend"],
+    "certifications": ["Spring Certified Professional"]
+  },
+  {
+    "name": "Neha Bansal",
+    "skills": ["Python", "SQL", "Excel"],
+    "interests": ["Public Health", "Research"],
+    "certifications": ["Excel for Data Analysis"]
+  },
+  {
+    "name": "Arjun Patel",
+    "skills": ["Java", "AWS", "Hibernate"],
+    "interests": ["FinTech", "Blockchain"],
+    "certifications": ["AWS Developer Associate"]
+  },
+  {
+    "name": "Tanya Singh",
+    "skills": ["Python", "Pandas", "Matplotlib"],
+    "interests": ["AI", "Healthcare"],
+    "certifications": ["Python for Data Science"]
+  },
+  {
+    "name": "Nikhil Mehra",
+    "skills": ["Java", "Spring", "Kafka"],
+    "interests": ["Microservices", "FinTech"],
+    "certifications": ["Java Spring Developer"]
+  },
+  {
+    "name": "Aisha Khan",
+    "skills": ["SQL", "Python", "Pandas"],
+    "interests": ["Healthcare", "Analytics"],
+    "certifications": ["Data Analytics with Python"]
+  },
+  {
+    "name": "Rahul Dev",
+    "skills": ["Java", "AWS", "MySQL"],
+    "interests": ["Backend", "FinTech"],
+    "certifications": ["AWS Cloud Practitioner"]
+  },
+  {
+    "name": "Pooja Nair",
+    "skills": ["Python", "SQL", "Power BI"],
+    "interests": ["Data Analytics", "Healthcare"],
+    "certifications": ["Google Business Intelligence"]
+  }
+]
